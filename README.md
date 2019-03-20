@@ -1,2 +1,2 @@
-# -batch-programming-decoded---ebooks-by-KVC
+# batch programming decoded - book by KVC
 Note: I am not a professional in programming, Officially - with zero theoretical knowledge I have written this book! and it is fully based on my experience with the black boxes ( computers).   so, if you don't like it just remember one thing that it's not professional at all. to know more about how and why I have written this book about batch programming; please refer to the following link: https://www.thebateam.org/learn-batch-programming-layman-style/
